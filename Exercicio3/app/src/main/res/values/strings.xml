@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercicio3</string>
+    <string name="calcular">Calcular</string>
+    <string name="idade_hint">Digite sua idade</string>
+    <string name="aposentado">Você já deveria estar aposentado. </string>
+    <string name="tempo_restante">Faltam %1$d anos para a sua aposentadoria.</string>
+    <string name="idadeInvalida">essa idade não é válida</string>
+    <string name="seu_nome">Luigi Knup</string>
+</resources>
